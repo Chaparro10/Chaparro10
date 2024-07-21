@@ -10,7 +10,7 @@
 <body>
 
   <h1 align="center">Hola 👋, Soy Kevin</h1>
-  <h3 align="center">Desarrollador de Software junior</h3>
+  <h3 align="center">Desarrollador de Software</h3>
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
