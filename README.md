@@ -52,7 +52,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
     </a>
      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg](https://pluspng.com/img-png/oracle-logo-png-oracle-logo-png-img-720-720-free-transparent-logo-png-900x720.jpg)" alt="Oracle" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg](https://pluspng.com/img-png/oracle-logo-png-oracle-logo-png-img-720-720-free-transparent-logo-png-900x720.jpg" alt="Oracle" width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
