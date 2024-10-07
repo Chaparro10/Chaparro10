@@ -61,7 +61,8 @@
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
     </a>
       <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
+      <img src="https://www.svgrepo.com/show/439061/angular.svg" alt="Angular" width="40" height="40" />
+  
     </a>
   </p>
 
